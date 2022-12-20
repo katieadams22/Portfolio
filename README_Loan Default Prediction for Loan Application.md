@@ -1,0 +1,3 @@
+Summary of Project: 
+To best predict loan defaults, a dataset was obtained from UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#) which has a large volume of records (30,000) and 25 columns or features. 
+Using this data, multiple Logistic Regression models with an 80% train and 20% test sets were used to determine which loan default dataset features are most related to or most predictive of loan defaults, where the “default payment next month” feature is the target. Because the Target Variable (default payment next month) is a binary variable, in this research initiative Logistic Regression will be used as the model of choice.
